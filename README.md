@@ -5,16 +5,13 @@
 - <b>Cloud SOC/Honeynet (AlgoExpert)</b>
   - <b><i>[Creating a Live SOC/Honeynet in Azure](https://github.com/Shresoc/Azure-SOC-Honeynet)</b></i>
 - <b>Full Stack Web App (JavaScript, CSS, HTML, MySQL, PHP, WAMP Server)</b>
-  - <b><i>[Ecommerce web-application with security implementation:](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
+  - <b><i>[Ecommerce web-application with OWASP security implementation:](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
 - <b>Malware Analysis</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Malware Analysis Lab Setup Using VMs and Gateways ](https://github.com/joshmadakor1/Sentinel-Lab)
+ - <b> Security Infrastructure (Security as a Service)  (Upcoming):
+    - <b><i>Established own SOC infrastructure from scratch with SIEM, VMs, EDR, and additional Security as a Service features for SOC operations</b></i>
+- <b> Vulnerability Management and Assessment (Upcoming)</b>
 
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Popular YouTube Videos</h2>
 

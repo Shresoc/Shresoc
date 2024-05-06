@@ -5,7 +5,7 @@
 - <b>Cloud SOC/Honeynet (AlgoExpert)</b>
   - <b><i>[Creating a Live SOC/Honeynet in Azure](https://github.com/Shresoc/Azure-SOC-Honeynet)</b></i>
 - <b>Full Stack Web App (JavaScript, CSS, HTML, MySQL, PHP, WAMP Server)</b>
-  - <b><i>[Ecommerce web-application with OWASP security implementation:](https://github.com/Shresoc/OWASP-E-Commerce-Website) <b><i>
+  - <b><i>[Ecommerce web-application with OWASP security implementation](https://github.com/Shresoc/OWASP-E-Commerce-Website) <b><i>
 - <b>Malware Analysis</b>
   - Malware Analysis Lab Setup Using VMs and Gateways 
  - <b> Security Infrastructure (Security as a Service)  (Upcoming):

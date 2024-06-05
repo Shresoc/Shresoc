@@ -10,7 +10,9 @@
   - <b><i>[Established SOC infrastructure from scratch with Sliver Server,  VMware, EDR, and additional Security as a Service features](https://github.com/Shresoc/Security-as-a-Service) </b></i>
 - <b>Malware Analysis</b>
   - <b><i>[Malware Analysis Lab Setup Using VMs and Gateways](https://github.com/Shresoc/Malware-Analysis-Lab-Setup)</b></i>
-- <b> Vulnerability Management and Assessment (Upcoming)</b>
+- <b> Active Directory: Bulk User Creation </b>
+  - <b><i>[Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell](https://github.com/Shresoc/Active-Directory-) </b></i>
+
 
 
 <h2> 🤳 Connect with me:</h2>

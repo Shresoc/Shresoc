@@ -12,6 +12,8 @@
   - <b><i>[Malware Analysis Lab Setup Using VMs and Gateways](https://github.com/Shresoc/Malware-Analysis-Lab-Setup)</b></i>
 - <b> Active Directory: Bulk User Creation </b>
   - <b><i>[Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell](https://github.com/Shresoc/Active-Directory-) </b></i>
+- <b> Secure-Programming-for-Application-Development with Code Analysis</b>
+  - <b><i>[Comprehensive Guide to Secure Programming and Application Development with Code Analysis](https://github.com/Shresoc/Secure-Programming-for-Application-Development) </b></i>
 - <b>Memory Analysis with MemProcFS</b>
   - <b><i>[ Upcoming ] </b></i> 
 

@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Cloud SOC/Honeynet (AlgoExpert)</b>
+- <b>Cloud SOC/Honeynet with live traffic analysis</b>
   - <b><i>[Creating a Live SOC/Honeynet in Azure](https://github.com/Shresoc/Azure-SOC-Honeynet)</b></i>
 - <b>Full Stack Web App with OWASP based security features(JavaScript, CSS, HTML, MySQL, PHP, WAMP Server)</b>
   - <b><i>[Ecommerce web-application with OWASP security implementation](https://github.com/Shresoc/OWASP-E-Commerce-Website) <b><i>

@@ -14,7 +14,7 @@
   - <b><i>[Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell](https://github.com/Shresoc/Active-Directory-) </b></i>
 - <b> Secure-Programming-for-Application-Development with Code Analysis</b>
   - <b><i>[Comprehensive Guide to Secure Programming and Application Development with Code Analysis](https://github.com/Shresoc/Secure-Programming-for-Application-Development) </b></i>
-- <b>Memory Analysis and Forensics with MemProcFS</b>
+- <b>Memory Analysis and Forensics with MemProcFS (Upcoming)</b>
   - <b><i> Analysing Memory Forensics through a Sliver Server C2 payload deployment   </b></i> 
 
 
